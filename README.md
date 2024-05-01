@@ -4,3 +4,5 @@
 
 <img width="344" alt="image" src="https://github.com/anuvaK/CSS-ASSIGNMENTS/assets/51732536/c32784af-0643-4cff-b6c9-4534936848db">
 
+<img width="336" alt="image" src="https://github.com/anuvaK/CSS-ASSIGNMENTS/assets/51732536/905349ad-c2f7-49e0-a167-74aefbb6dc5d">
+
