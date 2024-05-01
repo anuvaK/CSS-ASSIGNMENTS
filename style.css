@@ -95,3 +95,50 @@
     font-weight: 300;
     margin-top:20px
 }
+
+.login-card {
+    width: 400px;
+    margin:20px auto;
+    text-align: center;
+}
+
+.login-logo {
+    height: 120px;
+}
+
+.logo-input {
+    margin: 15px 30px;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #e23744;
+    border-radius: 10px;
+    
+}
+
+.logo-input::placeholder {
+    color:#e2374596;
+}
+
+.login-card-heading {
+    color:#e23744;
+}
+
+.login-card-btn {
+    margin: 15px 30px;
+    padding: 15px;
+    border: 1px solid #e23744;
+    color: #fff;
+    background-color: #e23744;
+}
+
+.logo-link {
+    color: #e23744;
+    text-decoration: none;
+    cursor: pointer; 
+    padding-left: 2px;
+    font-size: 16px;
+}
+
+.login-card-txt {
+    font-size: 14px;
+}
